@@ -46,7 +46,14 @@ Uygulama üzerinden mail alabilmek için sağ üstteki **Ayarlar** menüsünden 
 
 ## 📸 Ekran Görüntüleri
 
-*()*
+![Uygulama Ana Ekranı](screenshots/ana_ekran.png)
+
+![Anlık Fiyat Ana Ekranı](screenshots/anlık_fiyat.png)
+
+![Listye Ekleme Ana Ekranı](screenshots/liste_ekleme.png)
+
+![Kayit Listesi](screenshots/tutulan_kayitlar.png)
+
 
 ## 🤝 Katkıda Bulunma
 
