@@ -12,9 +12,9 @@ E-ticaret sitelerindeki (Amazon, Trendyol, Hepsiburada vb.) ürünlerin fiyatlar
 
 Python veya kod bilgisine ihtiyacınız yok! Hazır programı indirip hemen kullanmaya başlayabilirsiniz.
 
-1.  **[Buraya Tıklayarak En Son Sürümü İndirin]([BURAYA_RELEASES_LINKI_GELECEK](https://github.com/firatozer01/fiyat-takip-botu-web-scraping/releases/download/v5.0/FiyatTakipBotu_v0.5.zip))** (v5.0.zip).
+1.  **[Buraya Tıklayarak En Son Sürümü İndirin]([(https://github.com/firatozer01/fiyat-takip-botu-web-scraping/releases/download/v5.0/FiyatTakipBotu_v0.5.zip)])** (v5.0.zip).
 2.  İndirdiğiniz `.zip` dosyasını klasöre çıkartın.
-3.  İçindeki **`FiyatTakipBotu.exe`** dosyasını çalıştırın.
+3.  İçindeki **`FiyatTakipBotu.exe`** dosyasını bir klasöre çıkarıp çalıştırın.
 4.  Hepsi bu kadar! Program kendi veritabanını otomatik oluşturacaktır.
 
 ---
